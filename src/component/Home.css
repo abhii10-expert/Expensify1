@@ -1,0 +1,21 @@
+.container {
+    background-image: url("http://get2.imglarger.com:8889/results/sTqcjDkn_4x.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 2px; /* Adjust this value as needed */
+    padding-bottom: 200px; /* Adjust this value as needed */
+}
+
+.typo{
+    padding-bottom: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.but{
+    padding-top: 60px;   
+
+}
+
