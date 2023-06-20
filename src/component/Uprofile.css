@@ -1,0 +1,23 @@
+.box{
+  align-items: center;
+}
+
+.signup-container {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(21, 51, 57, 0.607);
+  padding-left: 75px;
+  
+  /* box-align: center; */
+  /* align-tracks: "centre"; */
+  /* align-content: center; */
+  /* align-items: center ; */
+}
+
+/* .signup-form {
+  display: flex;
+  flex-direction: column;
+} */
