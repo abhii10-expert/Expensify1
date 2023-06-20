@@ -15,7 +15,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   const changeToo = () => {
-    navigate('/userl');
+    navigate('/login');
   }
 
   const changeTu = () => {
